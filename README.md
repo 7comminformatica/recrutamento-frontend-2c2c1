@@ -35,7 +35,7 @@ Desenvolver uma aplicação `SPA` responsiva para busca, listagem e detalhamento
 ## API Clash Royale
 
 - Documentação: [`https://docs.royaleapi.com/`](https://docs.royaleapi.com/);
-- Token: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTc2MywiaWRlbiI6IjQ5NTYwMzg4Njc0NTE5MDQzMiIsIm1kIjp7fSwidHMiOjE1MzgyMzMxMjAxMzl9.Gf5Sz8rWWf8wcesDsTum-iKaGOK-w38zByqZaIeo3Bk`;
+- Token: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTc2MywiaWRlbiI6IjQ5NTYwMzg4Njc0NTE5MDQzMiIsIm1kIjp7InVzZXJuYW1lIjoibHVjYXNjaGlvcXVldGkiLCJkaXNjcmltaW5hdG9yIjoiNTYwNiIsImtleVZlcnNpb24iOjN9LCJ0cyI6MTU3OTAwMzc0MzgxOX0.pATgWATRRqQm-fA1rlmMPwJO_hhy_Nf5Lg9OJvgtGq4`;
 - Endpoint para busca de clãs: [`https://api.royaleapi.com/clan/search?name={{clanName}}`](https://api.royaleapi.com/clan/search?name={{clanName}});
 - Endpoint para detalhamento do clã: [`https://api.royaleapi.com/clan/{{clanTag}}`](https://api.royaleapi.com/clan/{{clanTag}}).
 
